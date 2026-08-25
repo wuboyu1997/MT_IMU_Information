@@ -28,3 +28,12 @@
 - 使用例程&驱动：
   - Github：https://github.com/wuboyu1997/MT_IMU_Information
   - Gitee(国内镜像)：https://gitee.com/bald-graduate-student/mt_imu_information
+
+### 联系我们
+
+欢迎通过以下方式关注我们和获取最新信息：
+
+- 联系电话：0311-83933866
+- 邮箱：info@mtmems.com
+- 地址：河北省石家庄市鹿泉区美泰路1号
+- 微信公众号：微信搜索“美泰传感器”
