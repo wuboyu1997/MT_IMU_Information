@@ -77,7 +77,7 @@ for i = 1:n
         device(k,24) = fread(fid,1,'uint8');
         % time-length
         device(k,25) = fread(fid,1,'uint8');
-        % quaternion-data
+        % time-data
         device(k,26)=fread(fid,1,'uint64')*0.000001;  % us->s  
 
         k = k + 1;  % current sample number
